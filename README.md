@@ -1,20 +1,20 @@
 # Project Title
 
 One Paragraph of the project description
-You can find more information by visiting the [Codespace](https://codespaceacademy.com/) repository.
+You can find more information by visiting the [Codespace](https://github.com/cod3spac3Academy) repository.
 
-# Getting Started
+## Getting Started
 
 These instruction will give you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on deploying the project on a live system.
 
-## Prerequisites
+### Prerequisites
 
 Requirements for the software and other tools to build, test and push
 
-- [Example_1](https://www.google.com/)
-- [Example_2](https://www.google.com/)
+- [Example 1](https://www.example.com/)
+- [Example 2](https://www.example.com/)
 
-## Installing
+### Installing
 
 A step by step series of examples that tell you how to get a development environment running
 
@@ -28,26 +28,24 @@ And repeat
 
 End with an example of getting some data out of the system or using it for a little demo
 
-# Deployment
+## Deployment
 
 Add additional notes to deploy this on a live system
 
-# Built With
+## Built With
 
-- [Contributor_Covenant](google.com) - Used for the Code of Conduct
-- [Creative_Commons](google.com) - Used to choose the license
+- [Contributor Covenant](https://www.contributorcovenant.org/) - Used for the Code of Conduct
+- [Creative Commons](https://creativecommons.org/) - Used to choose the license
 
-# Authors
+## Authors
 
-- **Izaeli** - Provided README Template-[Izaeli](https://github.com/Izaeli)
+- **Izaeli** - *Provided README Template*-[Izaeli](https://github.com/Izaeli)
 
 See also the list of
-
 [contributors](https://github.com/Izaeli)
-
 who participated in this project.
 
-# License
+## License
 
-This project is licensed under the [CCo_1.0_Universal](google.com)
-Creative Commons License - see the [LICENSE.md](google.com) file for details
+This project is licensed under the [CCO 1.0 Universal](LICENSE.md)
+Creative Commons License - see the [LICENSE.md](LICENSE.md) file for details

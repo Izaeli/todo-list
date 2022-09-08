@@ -34,7 +34,7 @@ Add additional notes to deploy this on a live system
 
 ## Built With
 
-- [Contributor Covenant](https://www.contributorcovenant.org/) - Used for the Code of Conduct
+- [Contributor Covenant](https://www.contributor-covenant.org/) - Used for the Code of Conduct
 - [Creative Commons](https://creativecommons.org/) - Used to choose the license
 
 ## Authors

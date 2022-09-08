@@ -1,7 +1,7 @@
 # Project Title
 
 One Paragraph of the project description
-You can find more information by visiting the [title=Codespace](https://codespaceacademy.com/) repository.
+You can find more information by visiting the [Codespace](https://codespaceacademy.com/) repository.
 
 # Getting Started
 
@@ -11,8 +11,8 @@ These instruction will give you a copy of the project up and running on your loc
 
 Requirements for the software and other tools to build, test and push
 
-- [title](Example 1)
-- [title](Example 2)
+- [Example_1](Example 1)
+- [Example_2](Example 2)
 
 ## Installing
 
